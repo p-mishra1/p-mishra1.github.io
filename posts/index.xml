@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on p-mishra1</title>
-    <link>p-mishra1.github.io/posts/</link>
+    <link>https://p-mishra1.github.io/posts/</link>
     <description>Recent content in Posts on p-mishra1</description>
     <image>
-      <url>p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Mar 2022 23:12:26 +0530</lastBuildDate><atom:link href="p-mishra1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 23:12:26 +0530</lastBuildDate><atom:link href="https://p-mishra1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
