@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>p-mishra1.github.io/categories/</loc>
-  </url>
-  
-  <url>
+    <loc>p-mishra1.github.io/posts/vision-papers/le_net/</loc>
+    <lastmod>2022-03-22T23:12:26+05:30</lastmod>
+  </url><url>
     <loc>p-mishra1.github.io/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-22T23:12:26+05:30</lastmod>
+  </url><url>
+    <loc>p-mishra1.github.io/posts/</loc>
+    <lastmod>2022-03-22T23:12:26+05:30</lastmod>
+  </url><url>
+    <loc>p-mishra1.github.io/posts/vision-papers/</loc>
+    <lastmod>2022-03-22T23:12:26+05:30</lastmod>
+  </url><url>
+    <loc>p-mishra1.github.io/about/</loc>
+    <lastmod>2022-03-06T21:57:36+05:30</lastmod>
+  </url><url>
+    <loc>p-mishra1.github.io/archives/</loc>
+  </url><url>
+    <loc>p-mishra1.github.io/categories/</loc>
+  </url><url>
+    <loc>p-mishra1.github.io/search/</loc>
+  </url><url>
     <loc>p-mishra1.github.io/tags/</loc>
   </url>
-  
 </urlset>
