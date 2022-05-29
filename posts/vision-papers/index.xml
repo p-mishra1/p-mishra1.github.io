@@ -16,10 +16,9 @@
       <pubDate>Sun, 29 May 2022 15:11:06 +0530</pubDate>
       
       <guid>https://p-mishra1.github.io/posts/vision-papers/alexnet/</guid>
-      <description>ImageNet Classification with Deep Convolutional Neural Networks : Review Introduction ImageNet Classification with Deep Convolutional Neural Networks paper introduces model AlexNet which created a huge impact and in the field of Deep Learning in terms of training Neural Network.
+      <description>Paper: ImageNet Classification with Deep Convolutional Neural Networks  Introduction This paper introduces model AlexNet which created a huge impact and in the field of Deep Learning in terms of training Neural Network and achieveing good results on ImageNet dataset.
 Novel Contributions   Introduction of ReLU(Recitified linear unit) activation function   $$\mathrm{ReLU} = \mathrm{max(0,x)}$$
-Before ReLU&amp;rsquo;s introduction the main non linearity used was $\tanh(x)$ or $\frac{1}{1 + \mathrm{e}^{-x}}$.
-ReLU activation function gives acceleration to the training process of the neural networks and also avoids the problem of saturation present with the earlier activation functions.</description>
+Before ReLU&amp;rsquo;s introduction the main non linearity used was $\tanh(x)$ or $\frac{1}{1 + \mathrm{e}^{-x}}$.</description>
     </item>
     
     <item>
