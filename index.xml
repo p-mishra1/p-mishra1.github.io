@@ -9,7 +9,19 @@
       <link>https://p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Mar 2022 23:12:26 +0530</lastBuildDate><atom:link href="https://p-mishra1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 15:11:06 +0530</lastBuildDate><atom:link href="https://p-mishra1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AlexNet</title>
+      <link>https://p-mishra1.github.io/posts/vision-papers/alexnet/</link>
+      <pubDate>Sun, 29 May 2022 15:11:06 +0530</pubDate>
+      
+      <guid>https://p-mishra1.github.io/posts/vision-papers/alexnet/</guid>
+      <description>ImageNet Classification with Deep Convolutional Neural Networks : Review Introduction ImageNet Classification with Deep Convolutional Neural Networks paper introduces model AlexNet which created a huge impact and in the field of Deep Learning in terms of training Neural Network.
+Novel Contributions   Introduction of ReLU(Recitified linear unit) activation function   $$\mathrm{ReLU} = \mathrm{max(0,x)}$$
+Before ReLU&amp;rsquo;s introduction the main non linearity used was $\tanh(x)$ or $\frac{1}{1 + \mathrm{e}^{-x}}$.
+ReLU activation function gives acceleration to the training process of the neural networks and also avoids the problem of saturation present with the earlier activation functions.</description>
+    </item>
+    
     <item>
       <title>LeNet</title>
       <link>https://p-mishra1.github.io/posts/vision-papers/le_net/</link>
