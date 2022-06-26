@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TorchTensorRT on p-mishra1</title>
+    <link>https://p-mishra1.github.io/posts/torchtensorrt/</link>
+    <description>Recent content in TorchTensorRT on p-mishra1</description>
+    <image>
+      <url>https://p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://p-mishra1.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Jun 2022 13:02:55 +0530</lastBuildDate><atom:link href="https://p-mishra1.github.io/posts/torchtensorrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Torch TensortRT Benchmarking for ResNet34</title>
+      <link>https://p-mishra1.github.io/posts/torchtensorrt/resnet34/</link>
+      <pubDate>Sun, 26 Jun 2022 13:03:45 +0530</pubDate>
+      
+      <guid>https://p-mishra1.github.io/posts/torchtensorrt/resnet34/</guid>
+      <description>Prerequisite Let us start with the system information that is being used for this experiment. The best way to start and test the Torch-TensorRT setup is to use an Nvidia-NGC docker container. To lower the initial setup time(I wasted a lot of time trying to match the dependencies).
+OS: Ubuntu 20.04 LTS GPU: NVIDIA Corporation GP107M [GeForce GTX 1050 Mobile] / NVIDIA GeForce GTX 1050/PCIe/SSE2 Container: nvcr.io/nvidia/pytorch:22.05-py3 
+NVIDIA-SMI 510.73.05 Driver Version: 510.</description>
+    </item>
+    
+  </channel>
+</rss>
