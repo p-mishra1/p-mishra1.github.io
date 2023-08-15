@@ -1,0 +1,8 @@
+{{ if .Page.Store.Get "hasMermaid" }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true , securityLevel: 'loose', theme: 'forest' });
+  </script>
+{{ end }}
+
+{{ template "_internal/disqus.html" . }}
